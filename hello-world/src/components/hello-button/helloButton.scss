@@ -1,0 +1,16 @@
+$primary-color: green;
+$text-color-btn: orange;
+$text-color-paragraph: #000000;
+
+.hello-world {
+  &-button {
+    font-size: 20px;
+    padding: 20px 10px;
+    color: $text-color-btn;
+    background: $primary-color;
+  }
+
+  &-text {
+    color: $text-color-paragraph;
+  }
+}
