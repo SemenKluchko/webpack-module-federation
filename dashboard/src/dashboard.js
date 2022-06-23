@@ -31,3 +31,4 @@ if (url === "/hello-world-page") {
 }
 
 console.log("dashboard");
+console.log("dashboard");
